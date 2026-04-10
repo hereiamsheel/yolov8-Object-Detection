@@ -4,6 +4,9 @@ A simple and efficient **Object Detection system using YOLOv8** built with Pytho
 Supports detection on **images, videos, and real-time webcam**.
 
 ---
+## 📊 Detection Result
+
+![Detection Output](Running-YOLO/result.png)
 
 ## 📁 Project Structure
 
